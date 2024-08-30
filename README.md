@@ -91,16 +91,20 @@ print('RMSE = ',rmse)
 ```
 
 ## Output:
-## Y_Pred
+Y_Pred
+
 ![image](https://github.com/user-attachments/assets/3d861ba3-d16a-4773-a6f1-6db88091cbcb)
 
-## Y_test
+Y_test
+
 ![image](https://github.com/user-attachments/assets/db50ad83-7132-4566-96d9-99ea609bfaab)
 
-## Training Set
+Training Set
+
 ![image](https://github.com/user-attachments/assets/d037ef43-e9f9-4560-bba5-6a72d7f73abe)
 
-## Testing Set
+Testing Set
+
 ![image](https://github.com/user-attachments/assets/cbc88e0e-7c7f-4ade-bf65-0d83aa204d47)
 
 ## Result:
