@@ -32,8 +32,8 @@ STEP 10 : Stop
 ```
 /*
 Program to implement the simple linear regression model for predicting the marks scored.
-Developed by: MANOJ MV
-RegisterNumber:  212222220023
+Developed by: SIBIRAJ P
+RegisterNumber: 212222220046
 */
 import pandas as pd
 import numpy as np
